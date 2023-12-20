@@ -1,2 +1,2 @@
-.envlocal
+.env.local
 /node_modules
